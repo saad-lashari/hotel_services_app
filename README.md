@@ -1,28 +1,88 @@
-# Hotel Booking App
-Hotel Booking App is a comprehensive application designed for users to search, view, and book hotel rooms seamlessly. The app offers a user-friendly interface, efficient search functionality, and secure booking options.
+# Hotel Services App
 
-## Features
+## Overview
+The **Hotel Services App** is a comprehensive platform designed to enhance the guest experience by providing a seamless way to manage hotel stays, book rooms, access amenities, and much more—all from a mobile device. This app is packed with features that cater to both guests and hotel management, ensuring an exceptional user experience.
 
-- **User Authentication:** Secure login and registration process.
-- **Hotel Search:** Advanced search filters by location, price, amenities, etc.
-- **Booking System:** Real-time availability and instant booking confirmation.
-- **User Reviews:** Read and write reviews for hotels.
-- **Favorites:** Save favorite hotels for future reference.
-- **Profile Management:** View and edit user profile and booking history.
-
+![Hotel Services App Poster](./images/hotel_services_app_poster.png)
 
 
 ## Screenshots
+![Screenshot 1](./images/screenshot1.png)
+![Screenshot 2](./images/screenshot2.png)
+![Screenshot 3](./images/screenshot3.png)
 
-![Screenshot 2024-06-26 at 11 24 50 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/8549e3bf-ad70-4991-bab9-2eb90cb0936b)
-![Screenshot 2024-06-26 at 11 24 44 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/00a68938-9347-4705-9b73-7f635fb0e28a)
-![Screenshot 2024-06-26 at 11 24 45 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/405ae32b-ccf5-4efd-9daf-52e9685c40a3)
-![Screenshot 2024-06-26 at 11 24 40 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/4b3395c3-6e8f-4e13-9ce2-5093183210a5)
-![Screenshot 2024-06-26 at 11 24 46 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/af6a1eb1-230f-4c91-ac9e-7ab71cc008cb)
-![Screenshot 2024-06-26 at 11 24 48 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/2aef43f4-35b6-4241-9f0f-a4d7c8928a3b)
-![Screenshot 2024-06-26 at 11 24 33 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/fc81682c-46db-4e74-8796-ea29bb31f4fd)
-![Screenshot 2024-06-26 at 11 24 29 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/4c0d72e2-0e61-42fe-9e48-6f3faee60457)
-![Screenshot 2024-06-26 at 11 24 49 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/7b67a642-ea78-4750-8e12-be8d4962ca56)
-![Screenshot 2024-06-26 at 11 24 27 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/790c69e1-5fdc-47b5-8ba5-f4dbc1b3107e)
-![Screenshot 2024-06-26 at 11 24 23 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/7626d978-d165-4eeb-ade9-ba6e6fe22403)
-![Screenshot 2024-06-26 at 11 24 18 AM](https://github.com/saad-lashari/hotel_services_app/assets/106142001/b53382fb-0689-4539-9a67-1b208ab53071)
+## Features
+
+### 1. User Authentication & Profile Management
+- **User Registration and Login:** Supports email, password authentication, and social media login.
+- **Profile Management:** Users can edit their profiles, update contact details, and set preferences.
+
+### 2. Room Booking System
+- **Real-time Room Availability:** Users can check room availability based on their preferred dates and room types.
+- **Detailed Room Information:** Includes images, amenities, pricing, and more.
+- **Booking Process:** Simple and intuitive booking process with secure payment options.
+- **Booking History:** Access past bookings and invoices at any time.
+
+### 3. Payment Integration
+- **Multiple Payment Methods:** Supports credit/debit cards, PayPal, and in-app wallet.
+- **Secure Transactions:** SSL encryption for all payment transactions.
+- **Invoices & Receipts:** Automatic generation and email delivery of invoices.
+
+### 4. Hotel Services and Amenities Booking
+- **Service Catalog:** Users can browse and book various hotel services like spa, gym, etc.
+- **Customization Options:** Personalize services to fit user preferences.
+- **Real-Time Updates:** Receive status updates for service bookings.
+
+### 5. Location-Based Services
+- **Interactive Map:** Shows hotel location and nearby attractions.
+- **Navigation:** Turn-by-turn directions within the hotel premises.
+- **Geofencing:** Get notifications and offers when near the hotel.
+
+### 6. Push Notifications & Alerts
+- **Booking Reminders:** Alerts for upcoming bookings and check-ins.
+- **Promotional Notifications:** Personalized offers and promotions.
+- **Service Updates:** Real-time notifications for service requests.
+
+### 7. Reviews & Feedback
+- **Rating System:** Users can rate their stay and services.
+- **User Reviews:** Option to leave detailed feedback.
+- **Admin Responses:** Hotel staff can respond to reviews.
+
+### 8. Loyalty Program & Rewards
+- **Rewards Points:** Earn points for bookings and service usage.
+- **Redeemable Offers:** Redeem points for discounts or free services.
+- **Loyalty Tiers:** Different tiers offering escalating benefits.
+
+### 9. Multilingual Support
+- **Language Selection:** Users can choose their preferred language.
+- **Localized Content:** Translation of app content based on language settings.
+
+### 10. Admin Panel & Hotel Management
+- **Booking Management:** View and manage all bookings.
+- **Service Management:** Manage available services and amenities.
+- **User Management:** Monitor and manage user accounts.
+- **Analytics & Reporting:** Detailed insights into bookings, revenue, and user behavior.
+- **CMS Integration:** Manage app content, images, and promotions.
+
+### 11. Security Features
+- **Data Encryption:** Secure user data with encryption.
+- **Two-Factor Authentication:** Enhanced security for user accounts.
+- **Regular Security Audits:** Ensure app security through regular audits.
+
+### 12. Customer Support & Chat Integration
+- **In-App Chat:** Real-time chat support with hotel staff.
+- **FAQ Section:** Comprehensive FAQ for common issues.
+- **Support Ticketing:** Users can raise tickets for support and track resolution.
+
+### 13. Offline Functionality
+- **Basic Offline Access:** Access booking details and essential information without internet.
+- **Sync on Reconnection:** Automatic data sync when internet is restored.
+
+### 14. Performance Optimization
+- **Fast Loading Times:** Optimized images, caching, and API calls for a smoother experience.
+- **Scalability:** Built to handle a large number of users and bookings.
+- **Error Handling:** User-friendly error messages for a better user experience.
+
+
+
+
